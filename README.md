@@ -25,14 +25,6 @@ I'm an SDET with over 6 years of experience dedicated to enhancing software qual
   <br>
   <br>
 </div>
-
-### 📈 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vvarun0&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vvarun0&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ---
 
 ### 🤝 Connect with Me
