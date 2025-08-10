@@ -7,7 +7,7 @@
 
 ### 🌟 About Me
 
-I'm an SDET with over 5 years of experience dedicated to enhancing software quality and performance. My expertise includes developing and executing comprehensive test plans, and I'm proficient in both manual and automation testing. I'm a collaborative problem-solver who enjoys working with CI/CD pipelines to ensure excellence throughout the software development lifecycle.
+I'm an SDET with over 6 years of experience dedicated to enhancing software quality and performance. My expertise includes developing and executing comprehensive test plans, and I'm proficient in both manual and automation testing. I'm a collaborative problem-solver who enjoys working with CI/CD pipelines to ensure excellence throughout the software development lifecycle.
 
 - 🔭 I’m currently focused on improving test automation frameworks.
 - 🌱 I’m always learning and exploring new tools for quality assurance.
