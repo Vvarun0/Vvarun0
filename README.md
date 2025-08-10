@@ -26,21 +26,6 @@ I'm an SDET with over 5 years of experience dedicated to enhancing software qual
   <br>
 </div>
 
-| Category | Skills |
-| :--- | :--- |
-| **Automation Frameworks** | Selenium with Cucumber, TestNG, Rest Assured, ROBOT Framework |
-| **Programming Languages** | Java, Python |
-| **CI/CD** | Jenkins |
-| **Test Management** | TestRail |
-| **Cloud Platforms** | Azure |
-| **Containerization & Orchestration** | Kubernetes |
-| **Database Query Language** | SQL (MySQL) |
-| **Version Control** | GitLab, GitHub, Bitbucket |
-| **Operating Systems** | Windows, Linux |
-| **Project Management** | Jira, Confluence |
-
----
-
 ### 📈 My GitHub Stats
 
 <div align="center">
